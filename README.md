@@ -12,6 +12,9 @@ This paper investigates graph neural networks (GNNs) applied for self-supervised
 - [DGL](https://www.dgl.ai/)
 - [PyoD](https://pyod.readthedocs.io/en/latest/)
 
+### Datasets
+
+[https://staff.itee.uq.edu.au/marius/NIDS_datasets/](https://staff.itee.uq.edu.au/marius/NIDS_datasets/)
 
 ### If you think this work is helpful, please cite
 ```latex
