@@ -1,4 +1,4 @@
-This is a PyTorch implementation of the paper [Anomal-E](https://arxiv.org/pdf/2207.06819.pdf).
+This is a PyTorch implementation of the paper [Anomal-E](https://arxiv.org/pdf/2207.06819.pdf). a GNN approach to intrusion and anomaly detection that leverages edge features and graph topological structure in a self-super
 
 Abstract
 
